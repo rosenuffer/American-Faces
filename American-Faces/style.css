@@ -32,7 +32,7 @@ main{
   background-color: #ffffffaa;
   padding: 5px;
 }
-main a:hover{
+main a{
   text-decoration: underline;
 }
 .container{
