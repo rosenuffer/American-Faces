@@ -32,6 +32,9 @@ main{
   background-color: #ffffffaa;
   padding: 5px;
 }
+main a:hover{
+  text-decoration: underline;
+}
 .container{
   display: flex;
   justify-content: center;
