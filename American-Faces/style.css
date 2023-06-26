@@ -17,6 +17,7 @@ a{
 }
 a:hover{
   border: inherit;
+  color: #540206;
 }
 .home{
   color: white;
